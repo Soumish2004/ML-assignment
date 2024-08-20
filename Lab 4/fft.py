@@ -58,7 +58,7 @@ def load_imgs_from_directory(directory, label, num_images=None):
     return images, labels
 
 
-base_dir = "/home/dhruv/Programming/College_lab/Sem5/MachineLearning19CSE305/train"
+base_dir = "E:\zipp\college\Third Year\\5th Sem\ML\ML\Lab 3\\train"
 fake_dir = os.path.join(base_dir, 'FAKE')
 real_dir = os.path.join(base_dir, 'REAL')
 
